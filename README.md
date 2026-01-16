@@ -1,2 +1,2 @@
-# snake-game-python-by-utkarsh
+# utkarsh-yadav-portfolio
 THE OG GAME
